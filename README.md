@@ -4,13 +4,13 @@ A Non-coding RNA Coding Potential Prediction Model Based on BiLSTM and Attention
 
 ## Requirements
 
-python == 3.7 <br> <br>
+python == 3.7 <br>
 
-pandas == 1.3.5 <br> <br>
+pandas == 1.3.5 <br>
 
-torch == 1.7.1 <br> <br>
+torch == 1.7.1 <br>
 
-scipy == 1.5.4 <br> <br>
+scipy == 1.5.4 <br>
 
 scikit-learn == 1.0.2
 
@@ -31,6 +31,7 @@ high-confidence.fa includes the transcripts in the high-confident subset of LNCi
 1. Data Preprocessing
 
 preprocessing.py    - Preprocessing transcript information from fasta file and calculating corresponding features.
+
 '$python preprocessing.py --withcp data/SPENCER.fa --withoutcp data/LNCipedia5.fa '
 
 ## Features
