@@ -30,8 +30,10 @@ high-confidence.fa includes the transcripts in the high-confident subset of LNCi
 
 1. Data Preprocessing
 
-preprocessing.py    - Preprocessing transcript information from fasta file and calculating corresponding features.
+    preprocessing.py    - Preprocessing transcript information from fasta file and calculating corresponding features.
 
-'$python preprocessing.py --withcp data/SPENCER.fa --withoutcp data/LNCipedia5.fa '
+    ‘‘‘
+    $ python preprocessing.py --withcp data/SPENCER.fa --withoutcp data/LNCipedia5.fa '
+    ’’’
 
 ## Features
