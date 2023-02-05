@@ -9,12 +9,12 @@ scikit-learn == 1.0.2
 ## Dataset
 The dataset of ABLNCPP is displayed in the data folder. 
 
-high-confidence.fa includes the transcripts in the high-confident subset of LNCipedia 5. SPENCER.fa and LNCipedia5.fa contain ncRNA sequences with coding potential and ncRNA sequences without coding potential, respectively. 
+high-confidence.fa includes the transcripts in the high-confident subset of LNCipedia 5. SPENCER.fa and LNCipedia5.fa are positive and negative samples of ABLNCPP, respectively.
 
 >high-confidence.fa
-
+>
 >SPENCER.fa
-
+>
 >LNCipedia5.fa
 ## Usage
 1. Data Preprocessing
