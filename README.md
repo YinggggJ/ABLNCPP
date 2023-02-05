@@ -42,9 +42,9 @@ high-confidence.fa includes the transcripts in the high-confident subset of LNCi
 
 3. Then, run `ABLNCPP.py` to train and evaluate the model.
 
-4. Run `predict.py` to predict the coding type and coding potential of the ncRNA transcript. 
+4. Run `predict.py` to predict coding type and coding potential of the ncRNA transcript. 
 
-The other details can see in the paper and the codes.
+The other details can be seen in the paper and the codes.
 
 ## Features
 
