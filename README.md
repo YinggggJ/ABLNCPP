@@ -18,13 +18,17 @@ scikit-learn == 1.0.2
 
 The dataset of ABLNCPP is displayed in the data folder. 
 
-high-confidence.fa includes the transcripts in the high-confident subset of LNCipedia 5. SPENCER.fa and LNCipedia5.fa are positive and negative samples of ABLNCPP, respectively.
+high-confidence.fa includes the transcripts in the high-confident subset of LNCipedia 5. SPENCER.fa and LNCipedia5.fa contain original sequences in two databases. pos_seq.fa and neg_seq.fa are positive and negative samples of ABLNCPP, respectively.
 
 >high-confidence.fa
 >
 >SPENCER.fa
 >
 >LNCipedia5.fa
+>
+>pos_seq.fa
+>
+>neg_seq.fa
 
 ## Usage
 
